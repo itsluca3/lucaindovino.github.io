@@ -7,3 +7,4 @@ https://itsluca3.github.io/lucaindovino
 body {
 background: #FF8E16;
 color: #000
+}
