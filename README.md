@@ -4,4 +4,4 @@ https://itsluca3.github.io/lucaindovino
 
 [Youtube](https://www.youtube.com/channel/UC6PMsEluaawjP5YxE5ZNWRA)
 
-<button type="button">YouTube
+<button type="button" oneclick="window.open('https://www.youtube.com/channel/UC6PMsEluaawjP5YxE5ZNWRA')">YouTube
